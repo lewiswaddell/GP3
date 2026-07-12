@@ -1,26 +1,35 @@
 ---
-title: "Group 5-GP3-Product-Media"
-format: html
+title: |
+  <div style="display:flex; align-items:center; justify-content:center; gap:15px;">
+    <img src="637382017185780333+290935.avif" style="height:70px;">
+    <span>GP3 - Product Feed / Retail Media Setup</span>
+  </div>
+author: "Group 5: Luis Ahumada, Spencer Conway, Carmen Jimenez Rodriguez, Leeann Lewis-Waddell, & Georgia Monjarrez"
+date: today
+format: 
+  html: 
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    embed-resources: true
 editor: visual
+execute: 
+  freeze: auto
 ---
 
-## Quarto
+# Product feed spreadsheet
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+# Short retail-media setup explanation
 
-## Running Code
+# Feed-quality diagnosis
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+# Retail-media Strategy
 
-```{r}
-1 + 1
-```
+# Recommendation for which products should be promoted first
 
-You can add options to executable code like this
+# Appendix
 
-```{r}
-#| echo: false
-2 * 2
-```
+-   [GitHub Repo](https://github.com/lewiswaddell/GP3.git)
 
-The `echo: false` option disables the printing of code (only output is displayed).
+-   [GitHub Page](https://lewiswaddell.github.io/GP3/)
