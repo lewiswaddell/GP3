@@ -20,6 +20,12 @@ execute:
 
 # Product feed spreadsheet
 
+The complete Product Feed Spreadsheet is included in the project repository.
+
+**Excel File**
+
+[GP3 – Product Feed – Retail Media Setup EXCEL](GP3%20-%20Product%20Feed%20-%20Retail%20Media%20Setup%20EXCEL.xlsx)
+
 # Short retail-media setup explanation
 
 # Feed-quality diagnosis
@@ -76,14 +82,6 @@ A complete and accurate product feed improves search visibility and prepares the
 
 # Appendix
 
-### Product Feed Spreadsheet
+-   [GitHub Repo](https://github.com/lewiswaddell/GP3.git)
 
-The complete Product Feed Spreadsheet is included in the project repository.
-
-**Excel File**
-
-[GP3 – Product Feed – Retail Media Setup EXCEL](GP3%20-%20Product%20Feed%20-%20Retail%20Media%20Setup%20EXCEL.xlsx)
-
-- [GitHub Repo](https://github.com/lewiswaddell/GP3.git)
-
-- [GitHub Page](https://lewiswaddell.github.io/GP3/)
+-   [GitHub Page](https://lewiswaddell.github.io/GP3/)
