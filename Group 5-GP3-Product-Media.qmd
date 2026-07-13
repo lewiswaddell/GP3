@@ -28,6 +28,12 @@ The complete Product Feed Spreadsheet is included in the project repository.
 
 # Short retail-media setup explanation
 
+For this project, we selected Google Merchant Center as our retail media channel. Google Merchant Center functions as the backbone of Google Shopping given it is where a retailer uploads and manages a product feed that populates Shopping Ads, Google Search product listings, and Google Maps inventory visibility.
+
+To demonstrate this setup, we built a sample product feed of ten CPP Farm Store items spanning four categories: gift products, fresh produce, specialty foods, and merchandise. Priority products for first promotion include the CPP Signature Gift Box and Bronco Gift Basket for their seasonal gifting appeal, Fresh Strawberries and CPP Navel Oranges to drive local store pickup traffic, and CPP Wildflower Honey and Strawberry Syrup Blackberry Blend as premium specialty add-ons.
+
+While full implementation requires a verified store domain and live ecommerce backend outside the scope of this project, the sample feed demonstrates how CPP Farm Store could move from its current state of zero online product visibility to an active, searchable presence that connects customer awareness directly to a purchase path.
+
 # Feed-quality diagnosis
 
 CPP Signature Gift Box - Product image may not clearly show every item included in the gift box and or not listing all the options for the gift box
