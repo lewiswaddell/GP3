@@ -24,6 +24,26 @@ execute:
 
 # Feed-quality diagnosis
 
+CPP Signature Gift Box - Product image may not clearly show every item included in the gift box and or not listing all the options for the gift box
+
+CPP Bronco Gift Basket - Just like the gift box, the description may not provide enough detail about the specific basket contents
+
+CPP Wildflower Honey - Product image may not clearly show the bottle or packaging details. Customers may want to see that the bottle is from Cal Poly Pomona and not just store brand like others.
+
+Fresh Strawberries - Availability may become unclear because strawberries can be seasonal. Customers would also want to make sure that they are in stock before making the drive to the farm store
+
+CPP Navel Oranges - Price may be unclear if the quantity, bag size, or selling unit is not specified in the description
+
+Brown Onion - The product title may be weak or too basic for retail media searches. Every local grocery store sells brown onions, the farm store can add "CPP" in front to make it unique.
+
+Fuji Apple - Shipping or pickup information may be unclear beyond store pickup. Image may be unclear and or a generic apple, we want to make sure image matches the item and description.
+
+CPP Farm Store Reusable Tote Bag - Product category may need verification because it is a merchandise item rather than a food product.
+
+Feta Stuffed Olives - Brand information may need to be more visible or clear in product listing.
+
+Strawberry Syrup Blackberry Blend - Product title may be unclear because the flavor combination could be confusing.
+
 # Retail-media Strategy
 
 The CPP Farm Store should use Google Merchant Center as its primary retail media channel because it is designed to improve product visibility across Google Search and Google Shopping. A complete and well organized product feed allows customers to discover products more easily while providing accurate information such as pricing, availability, product descriptions, and images. This increases the likelihood of attracting shoppers and generating both online interest and in store visits.
@@ -64,7 +84,6 @@ The complete Product Feed Spreadsheet is included in the project repository.
 
 [GP3 – Product Feed – Retail Media Setup EXCEL](GP3%20-%20Product%20Feed%20-%20Retail%20Media%20Setup%20EXCEL.xlsx)
 
+- [GitHub Repo](https://github.com/lewiswaddell/GP3.git)
 
--   [GitHub Repo](https://github.com/lewiswaddell/GP3.git)
-
--   [GitHub Page](https://lewiswaddell.github.io/GP3/)
+- [GitHub Page](https://lewiswaddell.github.io/GP3/)
